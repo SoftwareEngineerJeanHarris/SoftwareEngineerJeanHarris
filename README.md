@@ -96,7 +96,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: jean.bluewolfwebdesign.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
