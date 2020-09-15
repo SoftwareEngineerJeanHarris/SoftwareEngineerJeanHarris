@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer enthusiast
 
-- 🔭 I’m currently working on a few [projects][website]!
+- 🔭 I’m currently working on a few [projects][website2]!
 - 🌱 I’m learning everything from web developement to app developement, but I thuroughly enjoy software engineering above all else
 - ⚡ I'm currently working at Townsquare Interactive while running a side business of my own
 
@@ -23,4 +23,5 @@
 
 
 [website]: https://jean.bluewolfwebdesign.com
+[website2]: https://jean.bluewolfwebdesign.com/projects
 [linkedin]: https://www.linkedin.com/in/jean-michael-harris/
