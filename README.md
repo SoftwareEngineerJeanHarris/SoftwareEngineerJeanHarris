@@ -13,8 +13,6 @@
 [jean.bluewolfwebdesign.com][website]
 <br />
 [linkedin.com/in/jean-michael-harris][linkedin]
-
-<br />
 <br />
 
 ---
