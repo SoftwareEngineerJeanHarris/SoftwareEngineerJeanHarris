@@ -11,7 +11,11 @@
 
 ### Connect with me:
 
-[Website][website]
+[jean.bluewolfwebdesign.com][website]
+<br />
+[Projects][website2]
+<br />
+[Resume][website3]
 <br />
 [linkedin.com/in/jean-michael-harris][linkedin]
 <br />
@@ -23,4 +27,5 @@
 
 [website]: https://jean.bluewolfwebdesign.com
 [website2]: https://jean.bluewolfwebdesign.com/projects
+[website3]: https://jean.bluewolfwebdesign.com/wp-content/uploads/2020/09/Resume.pdf
 [linkedin]: https://www.linkedin.com/in/jean-michael-harris/
