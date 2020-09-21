@@ -9,7 +9,7 @@
 - 🌱 I’m learning everything from web developement to app developement, but I thuroughly enjoy software engineering above all else
 - ⚡ I'm currently working at Townsquare Interactive while running a side business of my own
 
-### Connect with me:
+### More:
 
 [Website][website]
 <br />
