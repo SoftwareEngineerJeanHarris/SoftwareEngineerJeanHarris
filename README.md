@@ -11,13 +11,13 @@
 
 ### Connect with me:
 
-[jean.bluewolfwebdesign.com][website]
+[Website][website]
 <br />
 [Projects][website2]
 <br />
 [Resume][website3]
 <br />
-[linkedin.com/in/jean-michael-harris][linkedin]
+[Linkedin][linkedin]
 <br />
 
 ---
