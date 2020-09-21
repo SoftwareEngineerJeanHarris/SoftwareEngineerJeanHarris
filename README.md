@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-# [jean.bluewolfwebdesign.com][website]
+[jean.bluewolfwebdesign.com][website]
 <br />
-# [linkedin.com/in/jean-michael-harris][linkedin]
+[linkedin.com/in/jean-michael-harris][linkedin]
 <br />
 
 ---
