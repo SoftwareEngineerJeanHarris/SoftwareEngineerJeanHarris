@@ -1,5 +1,4 @@
-### Hi there, I'm Jean Michael Harris
-### [jean.bluewolfwebdesign.com][website] 👋
+### Hi there, I'm Jean Michael Harris 👋
 
 [![Website](https://img.shields.io/website?label=jean.bluewolfwebdesign.com&style=for-the-badge&url=https%3A%2F%2Fjean.bluewolfwebdesign.com)](https://jean.bluewolfwebdesign.com)
 
