@@ -1,6 +1,6 @@
 ### Hi there, I'm Jean Michael Harris 👋
 
-[![Website](https://img.shields.io/website?label=jean.bluewolfwebdesign.com&style=for-the-badge&url=https%3A%2F%2Fjean.bluewolfwebdesign.com)](https://jean.bluewolfwebdesign.com)
+[![Website](https://img.shields.io/website?label=jean.charlottedigitaldesign.com&style=for-the-badge&url=https%3A%2F%2Fjean.charlottedigitaldesign.com)](https://jean.charlottedigitaldesign.com)
 
 ## I'm a Software Engineer enthusiast
 
@@ -24,7 +24,7 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SoftwareEngineerJeanHarris&show_icons=true&hide_border=true" />
 
 
-[website]: https://jean.bluewolfwebdesign.com
-[website2]: https://jean.bluewolfwebdesign.com/projects
-[website3]: https://jean.bluewolfwebdesign.com/wp-content/uploads/2020/09/Resume.pdf
+[website]: https://jean.charlottedigitaldesign.com
+[website2]: https://jean.charlottedigitaldesign.com/projects
+[website3]: https://jean.charlottedigitaldesign.com/wp-content/uploads/2020/09/Resume.pdf
 [linkedin]: https://www.linkedin.com/in/jean-michael-harris/
