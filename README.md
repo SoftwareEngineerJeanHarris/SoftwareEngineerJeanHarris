@@ -21,7 +21,6 @@
 
 ---
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SoftwareEngineerJeanHarris&show_icons=true&hide_border=true" />
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=SoftwareEngineerJeanHarris&show_icons=true&theme=dark"
