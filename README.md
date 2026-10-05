@@ -8,7 +8,7 @@ I'm a software engineer focused on making complex operational work feel simple. 
 ## What I build
 
 - **.NET automation:** C# APIs, WPF applications, and system services that update tire-material locations with each factory scan, trigger QA holds, and send threshold or expiration alerts.
-- **Android workflows:** Kotlin, Jetpack Compose, and MVVM applications that reduce large processes to a few guided actions—including starting, running, and verifying stock counts across inventory locations.
+- **Android workflows:** Kotlin, Jetpack Compose, and MVVM applications that reduce large processes to a few guided actions including starting, running, and verifying stock counts across inventory locations.
 - **React visibility:** TypeScript dashboards that help floor operators track progress and receive critical production information as work happens.
 - **Cybersecurity lab work:** Setting up a home lab and working through Hack The Box rooms with write-ups. Planned builds include a TCP packet-sniffing server and a SIEM application, with a honeypot server as a future project.
 
