@@ -10,6 +10,7 @@ I'm a software engineer focused on making complex operational work feel simple. 
 - **.NET automation:** C# APIs, WPF applications, and system services that update tire-material locations with each factory scan, trigger QA holds, and send threshold or expiration alerts.
 - **Android workflows:** Kotlin, Jetpack Compose, and MVVM applications that reduce large processes to a few guided actions—including starting, running, and verifying stock counts across inventory locations.
 - **React visibility:** TypeScript dashboards that help floor operators track progress and receive critical production information as work happens.
+- **Cybersecurity lab work:** Setting up a home lab and working through Hack The Box rooms with write-ups. Planned builds include a TCP packet-sniffing server and a SIEM application, with a honeypot server as a future project.
 
 ## Languages
 
@@ -19,6 +20,27 @@ I'm a software engineer focused on making complex operational work feel simple. 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+## Cybersecurity
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC0%20%26%20SEC1-CA2338?style=flat-square&logo=tryhackme&logoColor=white)
+![Home Lab](https://img.shields.io/badge/Home%20Lab-In%20Progress-19191C?style=flat-square)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-19191C?style=flat-square&logo=hackthebox&logoColor=white)
+
+I'm building practical security skills alongside software engineering: understanding networks, exploring system boundaries, and learning through hands-on labs.
+
+**Certifications — TryHackMe**
+
+- [Pre Security (SEC0)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec0-jean-michael-harris.pdf) — issued April 17, 2026.
+- [Cyber Security 101 (SEC1)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec1-jean-michael-harris.pdf) — issued September 29, 2026.
+
+**Currently exploring**
+
+- Home lab setup — in progress.
+- HTB rooms and write-ups — in progress; links will be added when ready to share.
+- TCP packet-sniffing server — planned.
+- Security information and event management (SIEM) application — planned.
+- Honeypot server — future idea.
 
 ## Explore
 
