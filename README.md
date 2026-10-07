@@ -2,7 +2,7 @@
 
 I'm a software engineer focused on making complex operational work feel simple. I build automation, mobile workflows, and floor-facing dashboards across .NET, Android, and React.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-4f7cff?style=for-the-badge&logo=githubpages&logoColor=white)](https://softwareengineerjeanharris.github.io/personal-site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-CA233?style=for-the-badge&logo=githubpages&logoColor=white)](https://softwareengineerjeanharris.github.io/personal-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-michael-harris/)
 
 ## What I build
@@ -23,9 +23,9 @@ I'm a software engineer focused on making complex operational work feel simple. 
 
 ## Cybersecurity
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC0%20%26%20SEC1-CA2338?style=flat-square&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC0%20%26%20SEC1-CA233?style=flat-square&logo=tryhackme&logoColor=white)
 ![Home Lab](https://img.shields.io/badge/Home%20Lab-In%20Progress-19191C?style=flat-square)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-19191C?style=flat-square&logo=hackthebox&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-CA2330?style=flat-square&logo=hackthebox&logoColor=white)
 
 I'm building practical security skills alongside software engineering: understanding networks, exploring system boundaries, and learning through hands-on labs.
 
