@@ -36,11 +36,12 @@ I'm building practical security skills alongside software engineering: understan
 
 **Currently exploring**
 
+- Working on my Certified Penetration Tester Specialist(CPTS) Certification Through Hack The Box - in progress.
 - Home lab setup — in progress.
-- HTB rooms and write-ups — in progress; links will be added when ready to share.
+- HTB rooms and write-ups — in progress;
 - TCP packet-sniffing server — planned.
 - Security information and event management (SIEM) application — planned.
-- Honeypot server — future idea.
+- Honeypot server — planned.
 
 ## Explore
 
