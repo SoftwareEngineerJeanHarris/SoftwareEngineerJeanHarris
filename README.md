@@ -31,8 +31,8 @@ I'm building practical security skills alongside software engineering: understan
 
 **Certifications — TryHackMe**
 
-- [Pre Security (SEC0)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec0-jean-michael-harris.pdf) — issued April 17, 2026.
-- [Cyber Security 101 (SEC1)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec1-jean-michael-harris.pdf) — issued September 29, 2026.
+- [Pre Security (SEC0)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec0-jean-michael-harris.pdf)
+- [Cyber Security 101 (SEC1)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec1-jean-michael-harris.pdf)
 
 **Currently exploring**
 
