@@ -24,7 +24,6 @@ I'm a software engineer focused on making complex operational work feel simple. 
 ## Cybersecurity
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC0%20%26%20SEC1-CA233?style=flat-square&logo=tryhackme&logoColor=white)
-![Home Lab](https://img.shields.io/badge/Home%20Lab-In%20Progress-19191C?style=flat-square)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-CA2330?style=flat-square&logo=hackthebox&logoColor=white)
 
 I'm building practical security skills alongside software engineering: understanding networks, exploring system boundaries, and learning through hands-on labs.
