@@ -36,6 +36,10 @@ I'm building practical security skills alongside software engineering: understan
 - [Cyber Security 101 (SEC1)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec1-jean-michael-harris.pdf)
 - [Pre Security (SEC0)](https://softwareengineerjeanharris.github.io/personal-site/certifications/tryhackme-sec0-jean-michael-harris.pdf)
 
+**Pwnd boxes — TryHackMe**
+- [Compiled)](https://github.com/SoftwareEngineerJeanHarris/try-hack-me/tree/main/Rooms/Compiled)
+- [TakeOver](https://github.com/SoftwareEngineerJeanHarris/try-hack-me/tree/main/Rooms/TakeOver)
+
 **Currently exploring**
 
 - Working on my Certified Penetration Tester Specialist(CPTS) Certification Through Hack The Box - in progress.
