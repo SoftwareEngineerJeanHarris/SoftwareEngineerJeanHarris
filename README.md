@@ -5,8 +5,8 @@ I'm a software engineer focused on making complex operational work feel simple. 
 
 [![Portfolio](https://img.shields.io/badge/Visit%20Site-236DB33F?style=for-the-badge&logo=linkedin&logoColor=white)](https://softwareengineerjeanharris.github.io/personal-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-michael-harris/)
-
-<img src="https://img.shields.io/badge/-HackTheBox-%23C01818?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe-%23C01818?style=for-the-badge&logo=tryhackme&logoColor=white" />
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-%23C01818?style=for-the-badge&logo=hackthebox&logoColor=white)](https://profile.hackthebox.com/profile/019d942a-b41a-7373-94c9-bbae285fd975)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23C01818?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/LOKI2525)
 
 ## Software Engineering
 
