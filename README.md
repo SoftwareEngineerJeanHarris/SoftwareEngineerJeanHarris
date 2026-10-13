@@ -50,7 +50,6 @@ I'm a software engineer focused on making complex operational work feel simple. 
 ![Fuff](https://img.shields.io/badge/Fuff-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-E60012.svg?style=for-the-badge&logo=Redragon&logoColor=white)
-
 ![Wire Shark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Wire Shark](https://img.shields.io/badge/TCPDump-5C2EDE.svg?style=for-the-badge&logo=Astra&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-006600.svg?style=for-the-badge&logo=Android&logoColor=white)
