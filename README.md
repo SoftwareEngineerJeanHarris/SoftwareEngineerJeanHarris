@@ -1,9 +1,12 @@
+<!-- For my badges I just use these: https://home.aveek.io/GitHub-Profile-Badges/ -->
 # Hi, I'm Jean Harris 👋
 
 I'm a software engineer focused on making complex operational work feel simple. I build automation, mobile workflows, and floor-facing dashboards across .NET, Android, and React. After hours, I am a passionate Offensive Security Specialist chasing down bulnerabilities and pwning boxes on training platforms.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-CA233?style=for-the-badge&logo=githubpages&logoColor=white)](https://softwareengineerjeanharris.github.io/personal-site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-michael-harris/)
+[![Portfolio](https://img.shields.io/badge/Visit%20Site-236DB33F?style=for-the-badge&logo=linkedin&logoColor=white)](https://softwareengineerjeanharris.github.io/personal-site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-michael-harris/)
+
+<img src="https://img.shields.io/badge/-HackTheBox-%23C01818?style=for-the-badge&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/-TryHackMe-%23C01818?style=for-the-badge&logo=tryhackme&logoColor=white" />
 
 ## Software Engineering
 
@@ -11,25 +14,17 @@ I'm a software engineer focused on making complex operational work feel simple. 
 - **Android workflows:** Kotlin, Jetpack Compose, and MVVM applications that reduce large processes to a few guided actions including starting, running, and verifying stock counts across inventory locations.
 - **React visibility:** TypeScript dashboards that help floor operators track progress and receive critical production information as work happens.
 
-## Penetration Testing
-
-- **Cybersecurity lab work:** Setting up a home lab and working through Hack The Box rooms with write-ups. Planned builds include a TCP packet-sniffing server and a SIEM application, with a honeypot server as a future project.
-
-## Fluent Languages
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white)
+![C Sharp](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-E60012.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Cybersecurity
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SEC0%20%26%20SEC1-CA233?style=flat-square&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-CA2330?style=flat-square&logo=hackthebox&logoColor=white)
-
-I'm building practical security skills alongside software engineering: understanding networks, exploring system boundaries, and learning through hands-on labs.
+- **Cybersecurity lab work:** Setting up a home lab and working through Hack The Box rooms with write-ups. Planned builds include a TCP packet-sniffing server and a SIEM application, with a honeypot server as a future project.
 
 **Certifications — TryHackMe**
 
@@ -42,19 +37,28 @@ I'm building practical security skills alongside software engineering: understan
 
 **Currently exploring**
 
-- Working on my Certified Penetration Tester Specialist(CPTS) Certification Through Hack The Box - in progress.
+- Certified Penetration Tester Specialist(CPTS) Certification through HackTheBox - in progress.
 - Home lab setup — in progress.
 - TCP packet-sniffing server — in progress.
 - Security information and event management (SIEM) application — planned.
 - Honeypot server — planned.
 
-## Explore
+![MetaSploit](https://img.shields.io/badge/Metasploit-E60012.svg?style=for-the-badge&logo=Metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633.svg?style=for-the-badge&logo=Burp-Suite&logoColor=white)
+![JohnTheRipper](https://img.shields.io/badge/JohnTheRipper-E21E29.svg?style=for-the-badge&logo=Red-Hat&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000.svg?style=for-the-badge&logo=Agent-Skills&logoColor=white)
+![Fuff](https://img.shields.io/badge/Fuff-121D33.svg?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-E60012.svg?style=for-the-badge&logo=Redragon&logoColor=white)
 
-- [Projects](https://softwareengineerjeanharris.github.io/personal-site/#/projects)
-- [About](https://softwareengineerjeanharris.github.io/personal-site/#/about)
-- [LinkedIn](https://www.linkedin.com/in/jean-michael-harris/)
+![Wire Shark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Wire Shark](https://img.shields.io/badge/TCPDump-5C2EDE.svg?style=for-the-badge&logo=Astra&logoColor=white)
+![Android](https://img.shields.io/badge/Android-006600.svg?style=for-the-badge&logo=Android&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2E75B4.svg?style=for-the-badge&logo=Gitconnected&logoColor=white)
 
 ---
+
+<img src="https://cdn-images.tryhackme.com/public-profile/LOKI2525/badge-dark-47819e7df522.png" alt="LOKI2525's TryHackMe badge." width="400">
 
 <picture>
   <source
